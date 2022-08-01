@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyCashBook</string>
+    <string name="title_activity_login">Login</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="version">v1.0</string>
+    <string name="rangkumthismonth">Rangkuman Bulan Ini</string>
+    <string name="pengeluaran">Pengaluaran</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pemasukanplus">Tambah Pemasukan</string>
+    <string name="pemasukanmin">Tambah Pengeluaran</string>
+    <string name="detailcashflow">Detail Cash Flow</string>
+    <string name="setting">Pengaturan</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="nominal">Nominal</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="simpan">Simpan</string>
+    <string name="kembali">Kembali</string>
+    <string name="income">I</string>
+    <string name="outcome">O</string>
+    <string name="changepass"><u>Ganti Password</u></string>
+    <string name="currentpass">Password Saat Ini</string>
+    <string name="newpass">Password Baru</string>
+    <string name="about">About this App..</string>
+    <string name="dibuatoleh">Aplikasi ini dibuat oleh:</string>
+    <string name="nama">Nama : Revinda Amalia Saktyawati</string>
+    <string name="nim">NIM : 1841720185</string>
+    <string name="tanggal2">Tanggal : 01 Oktober 1999</string>
+</resources>
